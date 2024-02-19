@@ -1,0 +1,8 @@
+Phân tích yêu cầu đề tài nhóm: "Phần mềm quản lý cửa hàng tiện lợi"
+Chức năng chính của phần mềm:
+- Bán hàng: Tính toán giá, quản lý hóa đơn, in hóa đơn, áp dụng mã giảm giá cho hóa đơn.
+- Quản lý thông tin nhân sự/khách hàng: Thông tin nhân sự/khách hàng, lịch sử giao dịch
+- Quản lý kho hàng: theo dõi tồn kho, nhập hàng hóa, tổng doanh thu của từng mặt hàng
+Giao diện người dùng
+- Thiết kế thân thiện, dễ sử dụng
+- Có tính thẩm mỹ và trải nghiệm người dùng cao
