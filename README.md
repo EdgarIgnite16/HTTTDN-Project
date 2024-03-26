@@ -1,5 +1,5 @@
 # HTTTDN-Project
-Đồ án môn An toàn và bảo mật trong HTTT
+Đồ án môn Hệ thống thôgn tin doanh nghiệp
 
 ## Team member
 | TenSV              | MaSV       |
