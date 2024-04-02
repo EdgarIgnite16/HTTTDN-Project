@@ -1,47 +1,44 @@
-Câu hỏi 1. Mục tiêu của dự án là gì?
+Câu hỏi 1: Mục tiêu của dự án là gì?
 => Xây dựng một ứng dụng có thể giúp cho nhân viên, quản lý cửa hàng tiện lợi thao tác với công việc của họ.
 
-Câu hỏi 2: Bạn muốn đạt được điều gì thông qua dự án này?
+Câu hỏi 2: Ngân sách dự kiến cho phần mềm này là bao nhiêu?
+=> Khoảng tầm 8 triệu rưỡi tới 9 triệu
+
+Câu hỏi 3: Bạn biết chúng tôi từ đâu (Người thân, bạn bè, quảng cáo....)?
+=> Tôi đc người quen giới thiệu
+
+Câu hỏi 4: Vấn đề mà bạn gặp phải là gì?
+=> Tôi mở một cửa hàng tiện lợi và cần một ứng dụng giúp tôi quản lý cửa hàng đó.
+
+Câu hỏi 5: Bạn muốn đạt được điều gì thông qua dự án này?
 => Một ứng dụng đáp ứng được các nghiệp vụ của người bán hàng và quản lý trong cửa hàng tiện lợi.
 
-Câu hỏi 3: Ai là đối tượng mục tiêu của dự án (Người sử dụng)?
+Câu hỏi 6: Ai là đối tượng mục tiêu của dự án (Người sử dụng)?
 => Nhân viên, Quản lý cửa hàng.
 
-Câu hỏi 4: Bạn có yêu cầu cụ thể nào về giao diện người dùng (UI) và trải nghiệm người dùng (UX) không?
+Câu hỏi 7: Bạn mong muốn dự án này được thực hiện trong vòng bao lâu?
+=> Tầm 3 tháng
+
+Câu hỏi 8: Bạn có yêu cầu cụ thể nào về giao diện người dùng (UI) và trải nghiệm người dùng (UX) không?
 => Giao diện dễ dùng, đơn giản và thân thiện.
 
-Câu hỏi 5: Mức độ bảo mật cần thiết của phần mềm?
+Câu hỏi 9: Mức độ bảo mật cần thiết của phần mềm?
 => Không cần thiết.
 
-Câu hỏi 6: Phần mềm chạy được trên các hệ thống (OS) nào (Ví dụ như Window, MacOS, Android, IOS,.....)?
+Câu hỏi 10: Phần mềm chạy được trên các hệ thống (OS) nào (Ví dụ như Window, MacOS, Android, IOS,.....)?
 => Chạy chủ yếu trên Windows.
 
-Câu hỏi 7: Phần mềm sẽ được triển khai trên phần cứng như thế nào (PC, Máy tính bảng, điện thoại....)?
+Câu hỏi 11: Phần mềm sẽ được triển khai trên phần cứng như thế nào (PC, Máy tính bảng, điện thoại....)?
 => Triển khai trên máy POS tính tiền
 
-Câu hỏi 8: 
-=>
+Câu hỏi 12: Bạn có yêu cầu phầm mềm phải được thực hiện bằng công nghệ nào không (Nếu có thì liệt kê công nghệ dưới đây)
+=> Không
 
-Câu hỏi 9: Hãy liệt kê các nghiệp vụ mà bạn mong muốn có trong phần mềm của mình?
+Câu hỏi 13: Hãy liệt kê các nghiệp vụ mà bạn mong muốn có trong phần mềm của mình?
 => - bán hàng, - quản lý thông tin nhân viên, khách hàng - quản lý thông tin mặt hàng - quản lý việc nhập hàng
 
-Câu hỏi 9:
-=>
+Câu hỏi 14: Mô tả chi tiết các nghiệp vụ mà bạn vừa kể ra (câu 13)?
+=> 
 
-Câu hỏi 10:
-=>
-
-Câu hỏi 11:
-=>
-
-Câu hỏi 12:
-=>
-
-Câu hỏi 13:
-=>
-
-Câu hỏi 14:
-=>
-
-Câu hỏi 15: 
-=>
+Câu hỏi 15: Bạn còn ý kiến nào khác về phần mềm nữa không?
+=> không còn ý kiến nào khác
